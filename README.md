@@ -18,7 +18,7 @@ Implementei uma automação que reformulou um processo essencial, melhorando not
 
 # Education
 - Análise e desenvolvimento de sistemas - UNIP (2020 - 2022)
-- Dev Foundations - FIAP (2024 - 2025)
+- Pós-graduação - FIAP (2024 - 2025)
   
 # Skills
 
