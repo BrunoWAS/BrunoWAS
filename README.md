@@ -39,3 +39,9 @@ Implementei uma automação que reformulou um processo essencial, melhorando not
 # GitHub Stats 📊
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoWAS&layout=compact&theme=dark)
+
+![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoWAS&show_icons=true&theme=dark&include_all_commits=true)
+
+# Languages Commit Stats 📊
+
+![Languages Commit Stats](https://github-readme-stats.vercel.app/api/pin/?username=BrunoWAS&repo=github-readme-stats&show_icons=true&theme=dark&langs_count=8&layout=pie)
