@@ -9,18 +9,18 @@ Olá! Sou um Desenvolvedor Full-Stack dedicado à construção de experiências 
 
 # Experience 💻
 
-RPA Developer
-Samsung SDS |2021 - 2022
+**RPA Developer**  
+*Samsung SDS | 2021 - 2022*  
 Como Desenvolvedor RPA, desenvolvi automações low-code com JavaScript e Python, empregando Selenium para web scraping e Pandas para análise de dados. Meu objetivo era aumentar a eficiência e precisão operacional.
 
-Projeto de destaque:
+**Projeto de destaque:**  
 Implementei uma automação que reformulou um processo essencial, melhorando notavelmente a eficiência operacional. O projeto reduziu o tempo de processamento e os erros humanos, permitindo a realocação de recursos para áreas estratégicas, demonstrando o impacto significativo da automação na eficiência e crescimento da empresa.
 
-# Education
-- Análise e desenvolvimento de sistemas - UNIP (2020 - 2022)
-- Pós-graduação - FIAP (2024 - 2025)
+# Education 📚
+- **Análise e Desenvolvimento de Sistemas** - UNIP (2020 - 2022)
+- **Pós-graduação** - FIAP (2024 - 2025)
   
-# Skills
+# Skills 🛠️
 
 ### Default
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -29,19 +29,29 @@ Implementei uma automação que reformulou um processo essencial, melhorando not
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
---
 
 ### Banco de Dados
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
---
 
 # GitHub Stats 📊
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoWAS&layout=compact&theme=dark)
+<!-- ![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoWAS&show_icons=true&theme=dark&include_all_commits=true)-->
 
-![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoWAS&show_icons=true&theme=dark&include_all_commits=true)
+<!--
+# Projects 🗂️
 
-# Languages Commit Stats 📊
+### Projeto 1: [Nome do Projeto](link para o projeto)
+Breve descrição do projeto. Tecnologias utilizadas: HTML, CSS, JavaScript, etc.
 
-![Languages Commit Stats](https://github-readme-stats.vercel.app/api/pin/?username=BrunoWAS&repo=github-readme-stats&show_icons=true&theme=dark&langs_count=8&layout=pie)
+### Projeto 2: [Nome do Projeto](link para o projeto)
+Breve descrição do projeto. Tecnologias utilizadas: Python, Django, etc.
+-->
+
+<!--
+# Hobbies & Interests 🎮
+- **Gaming**: Jogar e acompanhar novidades no mundo dos games
+- **Tecnologia**: Explorar novas tecnologias e frameworks
+- **Leitura**: Ler livros sobre desenvolvimento pessoal e tecnologia
+-->
