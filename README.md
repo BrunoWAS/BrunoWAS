@@ -35,3 +35,7 @@ Implementei uma automação que reformulou um processo essencial, melhorando not
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 --
+
+# GitHub Stats 📊
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoWAS&layout=compact&theme=dark)
